@@ -1,0 +1,10 @@
+.cart-widget {
+    display: flex;
+    align-items: center;
+    width: 5px;
+  }
+  
+  .cart-item-count {
+    margin-left: 5px; 
+    color: rgb(223, 40, 40); 
+  }
